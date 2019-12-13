@@ -6,4 +6,6 @@ This repository is exclusive to learning.
 - não tenha preguiça
 - questione todas as hipótese
 - teste todas as coisas que puder
+- procure ajuda em forums e sites
+- analise como outras pessoas resolveram problemas parecidos
 - pratique diariamente
