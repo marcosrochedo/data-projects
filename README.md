@@ -1,3 +1,9 @@
 # data projects
 
 This repository is exclusive to learning.
+
+- seja persistente
+- não tenha preguiça
+- questione todas as hipótese
+- teste todas as coisas que puder
+- pratique diariamente
