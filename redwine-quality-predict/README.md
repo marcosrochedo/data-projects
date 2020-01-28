@@ -31,13 +31,26 @@ Output variable (based on sensory data):
 
 - Data preprocessing and visualizing missing values
 - Distribution check of the wine quality
+![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/redwine-quality-predict/images/distribution.png)
 - Correlation between predictors and between the predictors and target variables
-- Building and training Regression models
+![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/redwine-quality-predict/images/winequality.png)
 - Building and training Classifier models
 - Compare the results between differents types of models
 
+Ranking | Model	| Accuracy
+-------------------------
+1	| RandomForestClassifier	| 0.8700
+2	| SVC	| 0.8575
+3	| XGBClassifier |	0.8475
+4	| LinearSVC	| 0.8450
+5	| RidgeClassifier |	0.8425
+6	| BaggingClassifier	| 0.8350
+7	| SGDClassifier	| 0.8300
+8	| GradientBoostingClassifier |	0.8175
+9 |	DecisionTreeClassifier	| 0.8025
+10 |	ExtraTreeClassifier |	0.7575
+11 |	AdaBoostClassifier |	0.7300
 
-![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/redwine-quality-predict/images/winequality.png)
 
 ## References:
 
