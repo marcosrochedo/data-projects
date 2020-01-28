@@ -37,7 +37,7 @@ Output variable (based on sensory data):
 - Compare the results between differents types of models
 
 
-![Alt Text](https://drive.google.com/open?id=1Rfzay0dbluKPhqVWDtAOLgdRyuuM1_pX)
+![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/redwine-quality-predict/images/winequality.png)
 
 ## References:
 
