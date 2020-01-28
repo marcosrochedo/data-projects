@@ -42,6 +42,7 @@ Output variable (based on sensory data):
 - Building and training Classifier models
 
 - Compare the results between differents types of models
+
 ![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/redwine-quality-predict/images/results.PNG)
 
 ## References:
