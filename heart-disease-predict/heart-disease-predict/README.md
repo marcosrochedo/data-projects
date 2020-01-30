@@ -33,19 +33,21 @@ Output variable):
 
 - Data preprocessing and visualizing missing values
 
-- Distribution check of the wine quality
+- Exploratory data analysis
 
-![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/redwine-quality-predict/images/distribution.png)
-
-- Correlation between predictors and between the predictors and target variables
-
-![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/redwine-quality-predict/images/winequality.png)
-
-- Building and training Classifier models
+![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/heart-disease-predict/heart-disease-predict/images/menxwomen.png)
 
 - Compare the results between differents types of models
 
-![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/redwine-quality-predict/images/results.PNG)
+![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/heart-disease-predict/heart-disease-predict/images/results.PNG)
+
+- Neural Network accuracy: 85%
+
+![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/heart-disease-predict/heart-disease-predict/images/nnetwork.PNG)
+
+- Machine Learning Explainability
+
+![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/heart-disease-predict/heart-disease-predict/images/shapvalues.PNG)
 
 ## References:
 
