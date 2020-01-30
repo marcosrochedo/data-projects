@@ -20,24 +20,6 @@ Predict variables
 Output variable: 
 - 13 - Medv (median value of owner-occupied homes in \$1000s.)
 
-## Analysis and Prediction
-
-- Data preprocessing and visualizing missing values
-
-- Distribution check of the wine quality
-
-![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/redwine-quality-predict/images/distribution.png)
-
-- Correlation between predictors and between the predictors and target variables
-
-![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/redwine-quality-predict/images/winequality.png)
-
-- Building and training Classifier models
-
-- Compare the results between differents types of models
-
-![Alt Text](https://raw.githubusercontent.com/mp-rocha/data-projects/master/redwine-quality-predict/images/results.PNG)
-
 ## References:
 
 Harrison, D. and Rubinfeld, D.L. (1978) Hedonic prices and the demand for clean air. J. Environ. Economics and Management 5, 81–102.
