@@ -29,7 +29,7 @@ Predict variables
 Output variable): 
 - 13 - Target (0 and 1)
 
-## Analysis and Prediction
+## A little about this analysis...
 
 - Data preprocessing and visualizing missing values
 
